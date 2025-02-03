@@ -7,7 +7,7 @@ A scrapper for Bikes
 *Instructions
 
 
-Download or clone the Stock app.
+Download or clone the Scrapper app.
 
 ![Download zip](/img/zip.png)
 
